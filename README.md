@@ -4,6 +4,11 @@ Problem statement:
 
 Write a command line program in Python that accepts as input a filename of common words and a filename of text that outputs the word counts of the text after the common words are removed sorted by count descending and formatted nicely.
 
+https://www.ef.edu/english-resources/english-vocabulary/top-1000-words/
+https://www.gutenberg.org/files/
+
+https://www.gutenberg.org/ebooks/70732
+
 Example Output:
 Alice: 10000\
 Foo: 50\
